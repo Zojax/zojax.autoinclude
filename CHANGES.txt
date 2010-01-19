@@ -1,39 +1,8 @@
-=======
-CHANGES
-=======
-
-
-0.4.0 (2009-10-20)
+1.0.2 (Unreleased)
 ------------------
 
-- Load 'exclude.zcml' file
 
-
-0.3.1 (2009-05-07)
+1.0.1 (2010-01-19)
 ------------------
 
-- Do not depend on z3c.autoinclude
-
-
-0.3.0 (2009-04-13)
-------------------
-
-- Allow load package 'extras'
-
-
-0.2.0 (2009-04-09)
-------------------
-
-- Added fixes for zope.app.xxx dependencies
-
-
-0.1.1 (2009-04-09)
-------------------
-
-- Remove unused link
-
-
-0.1.0 (2009-04-07)
-------------------
-
-- Initial release.
+- zojax initial release
